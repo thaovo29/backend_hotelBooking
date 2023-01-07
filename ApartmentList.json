@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1, 
+        "name": "Bland Landmark Luxury Residence", 
+        "rate": 5, 
+        "address": "Vinhome Central Park, Binh Thanh District, Ho Chi Minh City", 
+        "description": "The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Conveniently situated in the Bình Thạnh part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous War Remnants Museum. Restaurant, fitness center and indoor pool are among the special facilities that will enhance your stay with on-site convenience.", 
+        "imageURL": "https://i.imgur.com/fPPudO9.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "swimmingPool", 
+                "iconURL": "https://i.imgur.com/bbpLGnd.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.794899916988479, 
+        "longitude": 106.72186300516786,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "2 Bedroom Apartment", 
+                "price": 400, 
+                "area": 84, 
+                "bed": "2 Double Queen Bed", 
+                "adult" : "Maximum 4 adults", 
+                "child": "2 children stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/vXWHgEL.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "3 Bedroom Apartment", 
+                "price": 500, 
+                "area": 110, 
+                "bed": "3 Double King Bed", 
+                "adult" : "Maximum 6 adults", 
+                "child": "3 children stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/McfOy6R.png"
+            }
+        ]
+    }, 
+    {
+        "id": 2, 
+        "name": "Cityhouse - Ariosa", 
+        "rate": 3, 
+        "address": "174 Nam Ky Khoi Nghia, District 3, Ho Chi Minh City", 
+        "description": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Conveniently situated in the District 3 part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous War Remnants Museum. This 3-star property is packed with in-house facilities to improve the quality and joy of your stay.", 
+        "imageURL": "https://i.imgur.com/weNUlVz.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "bar", 
+                "iconURL": "https://i.imgur.com/gT3MfuL.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.780302303184365,  
+        "longitude": 106.6945637258786,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Standard", 
+                "price": 200, 
+                "area": 16, 
+                "bed": "1 Double Queen Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/osV3LoY.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Superior", 
+                "price": 400, 
+                "area": 25, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/aWtvw0e.png"
+            },
+            {
+                "id": 3, 
+                "roomName": "Superior", 
+                "price": 400, 
+                "area": 25, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/vagWrU1.png"
+            }
+            
+        ]
+    },
+    {
+        "id": 3, 
+        "name": "Simmi 5 Apartment", 
+        "rate": 4, 
+        "address": "7 Phan Khiem Ich, District 7, Ho Chi Minh City", 
+        "description": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Conveniently situated in the District 7 part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous War Remnants Museum. This 4-star property is packed with in-house facilities to improve the quality and joy of your stay.", 
+        "imageURL": "https://i.imgur.com/H2UQlPU.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "bar", 
+                "iconURL": "https://i.imgur.com/gT3MfuL.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.780302303184365,  
+        "longitude": 106.6945637258786,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Standard", 
+                "price": 100, 
+                "area": 30, 
+                "bed": "1 Double Queen Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/H2UQlPU.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Grand View Apartment", 
+                "price": 150, 
+                "area": 50, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/PrzGQTw.png"
+            }
+            
+        ]
+    }
+]

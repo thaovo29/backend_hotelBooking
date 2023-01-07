@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1, 
+        "name": "ĐoiSao Homestay", 
+        "rate": 5, 
+        "address": "17 Nguyen Duy Trinh, District 2, Ho Chi Minh city", 
+        "description": "Conveniently situated in the District 2 part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options.", 
+        "imageURL": "https://i.imgur.com/3L6jGw9.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "swimmingPool", 
+                "iconURL": "https://i.imgur.com/bbpLGnd.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.789706979755554, 
+        "longitude": 106.76849517010679,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Double Room", 
+                "price": 200, 
+                "area": 27, 
+                "bed": "1 Double Queen Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/nacwDJg.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Quadruple Room", 
+                "price": 400, 
+                "area": 38, 
+                "bed": "2 Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/TYE30pf.png"
+            },
+            {
+                "id": 3, 
+                "roomName": "Garden View", 
+                "price": 600, 
+                "area": 40, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/Fv9c0Bt.png"
+            }
+        ]
+    }, 
+    {
+        "id": 2, 
+        "name": "Cactusland Homestay - Tran Hung Dao", 
+        "rate": 4, 
+        "address": "30 Tran Hung Dao, District 1, Ho Chi Minh city", 
+        "description": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Conveniently situated in the District 1 part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous War Remnants Museum.", 
+        "imageURL": "https://i.imgur.com/ZAkHiO7.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "bar", 
+                "iconURL": "https://i.imgur.com/gT3MfuL.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.759479736994777, 
+        "longitude": 106.68849514127186 ,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Standard", 
+                "price": 200, 
+                "area": 12, 
+                "bed": "1 Double Queen Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "2 children stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/ZAkHiO7.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Duplex Double", 
+                "price": 400, 
+                "area": 16, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/qKQ9FDl.png"
+            }
+        ]
+    }
+]

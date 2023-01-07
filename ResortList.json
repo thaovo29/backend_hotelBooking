@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1, 
+        "name": "Chloe Gallery", 
+        "rate": 5, 
+        "address": "06 Phan Van Chuong, District 7, Ho Chi Minh City", 
+        "description": "The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Conveniently situated in the District 7 part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous War Remnants Museum. Rated with 5 stars, this high-quality property provides guests with access to massage, restaurant and hot tub on-site.", 
+        "imageURL": "https://i.imgur.com/EiQr3f9.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "swimmingPool", 
+                "iconURL": "https://i.imgur.com/bbpLGnd.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.724132379959276, 
+        "longitude":106.72022643446739,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Duluxe Double Room", 
+                "price": 500, 
+                "area": 35, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/ooit7Rs.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Junior Suite", 
+                "price": 800, 
+                "area": 65, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/nA5BQ1j.png"
+            },
+            {
+                "id": 3, 
+                "roomName": "Luxury", 
+                "price": 600, 
+                "area": 40, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/sUA2udE.png"
+            }
+        ]
+    }, 
+    {
+        "id": 2, 
+        "name": "Villa Song Saigon", 
+        "rate": 4, 
+        "address": "197/2 Nguyen Van Huong Street,Thao Dien ward, District 2, Ho Chi Minh city", 
+        "description": "The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Conveniently situated in the District 2 part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous War Remnants Museum. Rated with 4.5 stars, this high-quality property provides guests with access to restaurant, fitness center and outdoor pool on-site.", 
+        "imageURL": "https://i.imgur.com/2BK7jge.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "bar", 
+                "iconURL": "https://i.imgur.com/gT3MfuL.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.737272658298915, 
+        "longitude": 106.72874126844417,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Standard", 
+                "price": 100, 
+                "area": 16, 
+                "bed": "1 Queen Bed", 
+                "adult" : "Maximum 1 adult", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/PfohXX5.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Superior", 
+                "price": 400, 
+                "area": 25, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/uTc4WmJ.png"
+            }
+        ]
+    }
+]

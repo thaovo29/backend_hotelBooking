@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1, 
+        "name": "Sheraton Riyadh Hotel", 
+        "rate": 5, 
+        "address": "1 Pham Ngu Lao, District 1, Ho Chi Minh city", 
+        "description": "Sheraton Saigon Hotel & Towers is located in the heart of Ho Chi Minh City's vibrant business and entertainment district on the famous Dong Khoi street. This luxurious property offers a spa, and outdoor pool and it features a grand total of 8 dining options.\nStylish rooms, studios and suites offer spacious interiors with modern amenities. Each includes an iPod dock, tea/coffee making facilities and a flat-screen TV with cable channels. All come with a large marble bathroom.", 
+        "imageURL": "https://i.imgur.com/ooit7Rs.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "swimmingPool", 
+                "iconURL": "https://i.imgur.com/bbpLGnd.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.775460625594652,
+        "longitude": 106.70390917073297,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Standard", 
+                "price": 200, 
+                "area": 16, 
+                "bed": "1 Double Queen Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/ooit7Rs.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Superior", 
+                "price": 400, 
+                "area": 25, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/ynUyr1v.png"
+            },
+            {
+                "id": 3, 
+                "roomName": "Luxury", 
+                "price": 600, 
+                "area": 40, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/mkJ50HD.png"
+            }
+        ]
+    }, 
+    {
+        "id": 2, 
+        "name": "CityHouse-Sonata Residence", 
+        "rate": 3, 
+        "address": "41 Nguyen Thi Thap, District 7, Ho Chi Minh city", 
+        "description": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Conveniently situated in the District 7 part of Ho Chi Minh City, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous War Remnants Museum. Rated with 3.5 stars, this high-quality property provides guests with access to restaurant, fitness center and outdoor pool on-site.", 
+        "imageURL": "https://i.imgur.com/eh4lgHT.png", 
+        "facilities": [
+            {
+                "id": 1, 
+                "name": "bar", 
+                "iconURL": "https://i.imgur.com/gT3MfuL.png"
+            }, 
+            {
+                "id": 2, 
+                "name": "wifi", 
+                "iconURL": "https://i.imgur.com/CjJusUE.png"
+            },
+            {
+                "id": 3, 
+                "name": "park", 
+                "iconURL": "https://i.imgur.com/r6woNFJ.png"
+            },
+            {
+                "id": 4, 
+                "name": "baby", 
+                "iconURL": "https://i.imgur.com/6MxN4lM.png"
+            },
+            {
+                "id": 5, 
+                "name": "gym", 
+                "iconURL": "https://i.imgur.com/39KEuo9.png"
+            }
+        ],
+        "latitude": 10.737272658298915, 
+        "longitude": 106.72874126844417,
+        "room": [
+            {
+                "id": 1, 
+                "roomName": "Standard", 
+                "price": 200, 
+                "area": 16, 
+                "bed": "1 Double Queen Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/eh4lgHT.png"
+            }, 
+            {
+                "id": 2, 
+                "roomName": "Superior", 
+                "price": 400, 
+                "area": 25, 
+                "bed": "1 Double King Bed", 
+                "adult" : "Maximum 2 adults", 
+                "child": "1 child stays FREE", 
+                "status": "available", 
+                "imageURL": "https://i.imgur.com/Ax2bND0.png"
+            }
+        ]
+    }
+]
